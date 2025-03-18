@@ -1,0 +1,19 @@
+{
+  "name": "gitlab-build-metrics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Elliott Spira <elliott@getport.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.13.10"
+  },
+  "dependencies": {
+    "@azure/identity": "^4.8.0",
+    "@gitbeaker/rest": "^42.1.0",
+    "@microsoft/microsoft-graph-client": "^3.0.7",
+    "axios": "^1.8.3",
+    "commander": "^13.1.0",
+    "dotenv": "^16.4.7",
+    "lodash": "^4.17.21"
+  }
+}
